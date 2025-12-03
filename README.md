@@ -34,7 +34,7 @@ Passos
 
 Clone este repositório:
 
-git clone [https://github.com/seu-usuario/rsa-implementacao.git](https://github.com/seu-usuario/rsa-implementacao.git)
+git clone [https://github.com/MateusRondon/CRIPTOGRAFIA_ERATOSTENES.git](https://github.com/MateusRondon/CRIPTOGRAFIA_ERATOSTENES.git)
 
 
 Navegue até a pasta do projeto e execute o arquivo principal:
